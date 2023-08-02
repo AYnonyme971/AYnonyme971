@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋, i'm AYnonyme. A little Developper, i usually code in JavaScript, but for websites I use HTML CSS and vanilla JS
+
+Here are some link:
+- [My portfolio](https://aynonyme971.github.io/)
+- [Repos](https://github.com/AYnonyme971?tab=repository)
+- My bot (soon)
+
+*I think that's all*<br>
+**Happy coding/hacking**
 
 <!--
 **AYnonyme971/AYnonyme971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
