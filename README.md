@@ -1,12 +1,22 @@
-### Hi 👋, i'm AYnonyme. A little Developper, i usually code in JavaScript, but for websites I use HTML CSS and vanilla JS
+### **👋 Hi**
+### I'm AYnonyme, a little dev
 
-Here are some link:
-- [My portfolio](https://aynonyme971.github.io/)
-- [Repos](https://github.com/AYnonyme971?tab=repository)
-- My bot (soon)
+Languages:<br>
 
-*I think that's all*<br>
-**Happy coding/hacking**
+![](https://skillicons.dev/icons?i=js,html,css)
+
+Maybe I should learn Dart & Flutter 🤔
+
+Apps:<br>
+
+![](https://skillicons.dev/icons?i=vscode,godot)
+
+🧷:
+-  [My Portfolio](https://aynonyme971.is-a-good.dev)
+-  [Tools](https://aynonyme971.is-a-good.dev/tools)
+-  [Repos](https://github.com/AYnonyme971?tab=repositories)
+-  <a href="mailto:aynonyme971@gmail.com">Email Me</a>
+
 
 <!--
 **AYnonyme971/AYnonyme971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
